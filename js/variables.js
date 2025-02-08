@@ -12,7 +12,7 @@ var faucet = L.geoJson(faucet, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-					<b>Informant: ${props.informant}</b>
+					<b>${props.informant}</b>
 					<br>Attic type: ${props.faucet}<br>
 				`
         layer.bindTooltip(popup, {
