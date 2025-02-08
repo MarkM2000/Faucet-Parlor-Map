@@ -1,7 +1,7 @@
 
 var faucet = L.geoJson(faucet, {
     pointToLayer: function (feature, latlng) {
-        return L.circle(latlng, {
+        return L.circleMarker(latlng, {
             color: '#FFFFFF',
             weight: 1,
             fillColor: '#5a5247',
