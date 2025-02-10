@@ -4,7 +4,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "IN13D",
+          "informant": "IN13D",
           "faucet": "spickets, spicket, faucet"
         },
         "geometry": {
@@ -18,7 +18,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "IL6B",
+          "informant": "IL6B",
           "faucet": "spicket, the faucet"
         },
         "geometry": {
@@ -32,7 +32,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "OH24B",
+          "informant": "OH24B",
           "faucet": "spicket, spigot"
         },
         "geometry": {
@@ -46,7 +46,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "IN29C",
+          "informant": "IN29C",
           "faucet": "spicket, forcep, faucet, sillcock"
         },
         "geometry": {
@@ -60,7 +60,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "KY18C",
+          "informant": "KY18C",
           "faucet": "spicket, faucets"
         },
         "geometry": {
@@ -74,7 +74,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "KY7B",
+          "informant": "KY7B",
           "faucet": "spicket, faucet, tap"
         },
         "geometry": {
@@ -88,7 +88,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "KY33C",
+          "informant": "KY33C",
           "faucet": "spicket, faucet, forcep"
         },
         "geometry": {
@@ -102,7 +102,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "IL16B",
+          "informant": "IL16B",
           "faucet": "spicket, faucet"
         },
         "geometry": {
@@ -116,7 +116,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "IN8E",
+          "informant": "IN8E",
           "faucet": "spicket, faucet"
         },
         "geometry": {
@@ -130,7 +130,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "KY1B",
+          "informant": "KY1B",
           "faucet": "spicket, faucet"
         },
         "geometry": {
@@ -144,7 +144,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "KY17C",
+          "informant": "KY17C",
           "faucet": "spicket, faucet"
         },
         "geometry": {
@@ -158,7 +158,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MA429",
+          "informant": "MA429",
           "faucet": "spicket, faucet"
         },
         "geometry": {
@@ -172,7 +172,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "ME311",
+          "informant": "ME311",
           "faucet": "spicket, faucet"
         },
         "geometry": {
@@ -186,7 +186,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MI6B",
+          "informant": "MI6B",
           "faucet": "spicket, faucet"
         },
         "geometry": {
@@ -200,7 +200,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MI9C",
+          "informant": "MI9C",
           "faucet": "spicket, faucet"
         },
         "geometry": {
@@ -214,7 +214,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "OH22B",
+          "informant": "OH22B",
           "faucet": "spicket, faucet"
         },
         "geometry": {
@@ -228,7 +228,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "OH23C",
+          "informant": "OH23C",
           "faucet": "spicket, faucet"
         },
         "geometry": {
@@ -242,7 +242,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "OH29A",
+          "informant": "OH29A",
           "faucet": "spicket, faucet"
         },
         "geometry": {
@@ -256,7 +256,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "OH30B",
+          "informant": "OH30B",
           "faucet": "spicket, faucet"
         },
         "geometry": {
@@ -270,7 +270,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "OH32A",
+          "informant": "OH32A",
           "faucet": "spicket, faucet"
         },
         "geometry": {
@@ -284,7 +284,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "OH35B",
+          "informant": "OH35B",
           "faucet": "spicket, faucet"
         },
         "geometry": {
@@ -298,7 +298,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN002",
+          "informant": "TN002",
           "faucet": "spicket "
         },
         "geometry": {
@@ -312,7 +312,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN002",
+          "informant": "TN002",
           "faucet": "spicket "
         },
         "geometry": {
@@ -326,7 +326,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN002",
+          "informant": "TN002",
           "faucet": "spicket "
         },
         "geometry": {
@@ -340,7 +340,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN003",
+          "informant": "TN003",
           "faucet": "spicket "
         },
         "geometry": {
@@ -354,7 +354,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN004",
+          "informant": "TN004",
           "faucet": "spicket "
         },
         "geometry": {
@@ -368,7 +368,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN006",
+          "informant": "TN006",
           "faucet": "spicket "
         },
         "geometry": {
@@ -382,7 +382,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN006",
+          "informant": "TN006",
           "faucet": "spicket "
         },
         "geometry": {
@@ -396,7 +396,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN006",
+          "informant": "TN006",
           "faucet": "spicket "
         },
         "geometry": {
@@ -410,7 +410,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN007",
+          "informant": "TN007",
           "faucet": "spicket "
         },
         "geometry": {
@@ -424,7 +424,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN009",
+          "informant": "TN009",
           "faucet": "spicket "
         },
         "geometry": {
@@ -438,7 +438,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN010",
+          "informant": "TN010",
           "faucet": "spicket "
         },
         "geometry": {
@@ -452,7 +452,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN010",
+          "informant": "TN010",
           "faucet": "spicket "
         },
         "geometry": {
@@ -466,7 +466,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN010",
+          "informant": "TN010",
           "faucet": "spicket "
         },
         "geometry": {
@@ -480,7 +480,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN011",
+          "informant": "TN011",
           "faucet": "spicket "
         },
         "geometry": {
@@ -494,7 +494,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN011",
+          "informant": "TN011",
           "faucet": "spicket "
         },
         "geometry": {
@@ -508,7 +508,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN012",
+          "informant": "TN012",
           "faucet": "spicket "
         },
         "geometry": {
@@ -522,7 +522,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN012",
+          "informant": "TN012",
           "faucet": "spicket "
         },
         "geometry": {
@@ -536,7 +536,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN012",
+          "informant": "TN012",
           "faucet": "spicket "
         },
         "geometry": {
@@ -550,7 +550,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN013",
+          "informant": "TN013",
           "faucet": "spicket "
         },
         "geometry": {
@@ -564,7 +564,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN013",
+          "informant": "TN013",
           "faucet": "spicket "
         },
         "geometry": {
@@ -578,7 +578,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN015",
+          "informant": "TN015",
           "faucet": "spicket "
         },
         "geometry": {
@@ -592,7 +592,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN015",
+          "informant": "TN015",
           "faucet": "spicket "
         },
         "geometry": {
@@ -606,7 +606,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN016",
+          "informant": "TN016",
           "faucet": "spicket "
         },
         "geometry": {
@@ -620,7 +620,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN017",
+          "informant": "TN017",
           "faucet": "spicket "
         },
         "geometry": {
@@ -634,7 +634,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN019",
+          "informant": "TN019",
           "faucet": "spicket "
         },
         "geometry": {
@@ -648,7 +648,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN020",
+          "informant": "TN020",
           "faucet": "spicket "
         },
         "geometry": {
@@ -662,7 +662,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN021",
+          "informant": "TN021",
           "faucet": "spicket "
         },
         "geometry": {
@@ -676,7 +676,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN021",
+          "informant": "TN021",
           "faucet": "spicket "
         },
         "geometry": {
@@ -690,7 +690,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN023",
+          "informant": "TN023",
           "faucet": "spicket "
         },
         "geometry": {
@@ -704,7 +704,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN023",
+          "informant": "TN023",
           "faucet": "spicket "
         },
         "geometry": {
@@ -718,7 +718,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN024",
+          "informant": "TN024",
           "faucet": "spicket "
         },
         "geometry": {
@@ -732,7 +732,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN024",
+          "informant": "TN024",
           "faucet": "spicket "
         },
         "geometry": {
@@ -746,7 +746,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN025",
+          "informant": "TN025",
           "faucet": "spicket "
         },
         "geometry": {
@@ -760,7 +760,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN025",
+          "informant": "TN025",
           "faucet": "spicket "
         },
         "geometry": {
@@ -774,7 +774,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN026",
+          "informant": "TN026",
           "faucet": "spicket "
         },
         "geometry": {
@@ -788,7 +788,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN026",
+          "informant": "TN026",
           "faucet": "spicket "
         },
         "geometry": {
@@ -802,7 +802,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN029",
+          "informant": "TN029",
           "faucet": "spicket "
         },
         "geometry": {
@@ -816,7 +816,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN030",
+          "informant": "TN030",
           "faucet": "spicket "
         },
         "geometry": {
@@ -830,7 +830,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN030",
+          "informant": "TN030",
           "faucet": "spicket "
         },
         "geometry": {
@@ -844,7 +844,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN031",
+          "informant": "TN031",
           "faucet": "spicket "
         },
         "geometry": {
@@ -858,7 +858,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN032",
+          "informant": "TN032",
           "faucet": "spicket "
         },
         "geometry": {
@@ -872,7 +872,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN033",
+          "informant": "TN033",
           "faucet": "spicket "
         },
         "geometry": {
@@ -886,7 +886,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN033",
+          "informant": "TN033",
           "faucet": "spicket "
         },
         "geometry": {
@@ -900,7 +900,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN034",
+          "informant": "TN034",
           "faucet": "spicket "
         },
         "geometry": {
@@ -914,7 +914,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN035",
+          "informant": "TN035",
           "faucet": "spicket "
         },
         "geometry": {
@@ -928,7 +928,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN035",
+          "informant": "TN035",
           "faucet": "spicket "
         },
         "geometry": {
@@ -942,7 +942,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN036",
+          "informant": "TN036",
           "faucet": "spicket "
         },
         "geometry": {
@@ -956,7 +956,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN036",
+          "informant": "TN036",
           "faucet": "spicket "
         },
         "geometry": {
@@ -970,7 +970,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN039",
+          "informant": "TN039",
           "faucet": "spicket "
         },
         "geometry": {
@@ -984,7 +984,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN040",
+          "informant": "TN040",
           "faucet": "spicket "
         },
         "geometry": {
@@ -998,7 +998,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN040",
+          "informant": "TN040",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1012,7 +1012,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN041",
+          "informant": "TN041",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1026,7 +1026,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN044",
+          "informant": "TN044",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1040,7 +1040,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN046",
+          "informant": "TN046",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1054,7 +1054,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN046",
+          "informant": "TN046",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1068,7 +1068,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN047",
+          "informant": "TN047",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1082,7 +1082,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN047",
+          "informant": "TN047",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1096,7 +1096,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN050",
+          "informant": "TN050",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1110,7 +1110,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN053",
+          "informant": "TN053",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1124,7 +1124,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN056",
+          "informant": "TN056",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1138,7 +1138,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN058",
+          "informant": "TN058",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1152,7 +1152,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA062",
+          "informant": "GA062",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1166,7 +1166,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA065",
+          "informant": "GA065",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1180,7 +1180,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA068",
+          "informant": "GA068",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1194,7 +1194,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA068",
+          "informant": "GA068",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1208,7 +1208,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA073",
+          "informant": "GA073",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1222,7 +1222,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA074",
+          "informant": "GA074",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1236,7 +1236,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA081",
+          "informant": "GA081",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1250,7 +1250,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA081",
+          "informant": "GA081",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1264,7 +1264,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA083",
+          "informant": "GA083",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1278,7 +1278,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA084",
+          "informant": "GA084",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1292,7 +1292,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA085",
+          "informant": "GA085",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1306,7 +1306,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA087",
+          "informant": "GA087",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1320,7 +1320,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA088",
+          "informant": "GA088",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1334,7 +1334,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA088",
+          "informant": "GA088",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1348,7 +1348,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA092",
+          "informant": "GA092",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1362,7 +1362,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA093",
+          "informant": "GA093",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1376,7 +1376,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA095",
+          "informant": "GA095",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1390,7 +1390,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA104",
+          "informant": "GA104",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1404,7 +1404,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA105",
+          "informant": "GA105",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1418,7 +1418,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA109",
+          "informant": "GA109",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1432,7 +1432,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA109",
+          "informant": "GA109",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1446,7 +1446,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA110",
+          "informant": "GA110",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1460,7 +1460,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA112",
+          "informant": "GA112",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1474,7 +1474,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA115",
+          "informant": "GA115",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1488,7 +1488,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA118",
+          "informant": "GA118",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1502,7 +1502,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA121",
+          "informant": "GA121",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1516,7 +1516,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA122",
+          "informant": "GA122",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1530,7 +1530,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA123",
+          "informant": "GA123",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1544,7 +1544,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA123",
+          "informant": "GA123",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1558,7 +1558,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA125",
+          "informant": "GA125",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1572,7 +1572,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA132",
+          "informant": "GA132",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1586,7 +1586,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA132",
+          "informant": "GA132",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1600,7 +1600,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA133",
+          "informant": "GA133",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1614,7 +1614,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA133",
+          "informant": "GA133",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1628,7 +1628,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA134",
+          "informant": "GA134",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1642,7 +1642,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA136",
+          "informant": "GA136",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1656,7 +1656,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA139",
+          "informant": "GA139",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1670,7 +1670,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA141",
+          "informant": "GA141",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1684,7 +1684,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA141",
+          "informant": "GA141",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1698,7 +1698,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA143",
+          "informant": "GA143",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1712,7 +1712,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA147",
+          "informant": "GA147",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1726,7 +1726,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA148",
+          "informant": "GA148",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1740,7 +1740,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA148",
+          "informant": "GA148",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1754,7 +1754,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA151",
+          "informant": "GA151",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1768,7 +1768,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA151",
+          "informant": "GA151",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1782,7 +1782,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA152",
+          "informant": "GA152",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1796,7 +1796,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA152",
+          "informant": "GA152",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1810,7 +1810,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA153",
+          "informant": "GA153",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1824,7 +1824,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA153",
+          "informant": "GA153",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1838,7 +1838,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA153",
+          "informant": "GA153",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1852,7 +1852,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA154",
+          "informant": "GA154",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1866,7 +1866,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA155",
+          "informant": "GA155",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1880,7 +1880,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA157",
+          "informant": "GA157",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1894,7 +1894,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA158",
+          "informant": "GA158",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1908,7 +1908,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA159",
+          "informant": "GA159",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1922,7 +1922,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA160",
+          "informant": "GA160",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1936,7 +1936,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA163",
+          "informant": "GA163",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1950,7 +1950,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA163",
+          "informant": "GA163",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1964,7 +1964,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA173",
+          "informant": "GA173",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1978,7 +1978,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA173",
+          "informant": "GA173",
           "faucet": "spicket "
         },
         "geometry": {
@@ -1992,7 +1992,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA174",
+          "informant": "GA174",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2006,7 +2006,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA174",
+          "informant": "GA174",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2020,7 +2020,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA176",
+          "informant": "GA176",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2034,7 +2034,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA178",
+          "informant": "GA178",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2048,7 +2048,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA178",
+          "informant": "GA178",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2062,7 +2062,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA179",
+          "informant": "GA179",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2076,7 +2076,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA180",
+          "informant": "GA180",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2090,7 +2090,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA181",
+          "informant": "GA181",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2104,7 +2104,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA183",
+          "informant": "GA183",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2118,7 +2118,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA183",
+          "informant": "GA183",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2132,7 +2132,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA185",
+          "informant": "GA185",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2146,7 +2146,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA185",
+          "informant": "GA185",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2160,7 +2160,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA186",
+          "informant": "GA186",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2174,7 +2174,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA186",
+          "informant": "GA186",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2188,7 +2188,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA186",
+          "informant": "GA186",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2202,7 +2202,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA187",
+          "informant": "GA187",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2216,7 +2216,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA187",
+          "informant": "GA187",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2230,7 +2230,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA188",
+          "informant": "GA188",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2244,7 +2244,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA190",
+          "informant": "GA190",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2258,7 +2258,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA193",
+          "informant": "GA193",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2272,7 +2272,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA194",
+          "informant": "GA194",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2286,7 +2286,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA195",
+          "informant": "GA195",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2300,7 +2300,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA197",
+          "informant": "GA197",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2314,7 +2314,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA197",
+          "informant": "GA197",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2328,7 +2328,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA198",
+          "informant": "GA198",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2342,7 +2342,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA198",
+          "informant": "GA198",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2356,7 +2356,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA199",
+          "informant": "GA199",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2370,7 +2370,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA201",
+          "informant": "GA201",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2384,7 +2384,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA204",
+          "informant": "GA204",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2398,7 +2398,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA204",
+          "informant": "GA204",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2412,7 +2412,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA204",
+          "informant": "GA204",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2426,7 +2426,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA206",
+          "informant": "GA206",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2440,7 +2440,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA206",
+          "informant": "GA206",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2454,7 +2454,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA207",
+          "informant": "GA207",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2468,7 +2468,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA207",
+          "informant": "GA207",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2482,7 +2482,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA208",
+          "informant": "GA208",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2496,7 +2496,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA210",
+          "informant": "GA210",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2510,7 +2510,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA211",
+          "informant": "GA211",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2524,7 +2524,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA211",
+          "informant": "GA211",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2538,7 +2538,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA212",
+          "informant": "GA212",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2552,7 +2552,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA212",
+          "informant": "GA212",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2566,7 +2566,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA215",
+          "informant": "GA215",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2580,7 +2580,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA217",
+          "informant": "GA217",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2594,7 +2594,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA217",
+          "informant": "GA217",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2608,7 +2608,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA218",
+          "informant": "GA218",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2622,7 +2622,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA218",
+          "informant": "GA218",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2636,7 +2636,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA219",
+          "informant": "GA219",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2650,7 +2650,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA221",
+          "informant": "GA221",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2664,7 +2664,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA222",
+          "informant": "GA222",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2678,7 +2678,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA225",
+          "informant": "GA225",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2692,7 +2692,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL232",
+          "informant": "FL232",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2706,7 +2706,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL233",
+          "informant": "FL233",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2720,7 +2720,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL234",
+          "informant": "FL234",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2734,7 +2734,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL234",
+          "informant": "FL234",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2748,7 +2748,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL377",
+          "informant": "AL377",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2762,7 +2762,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL377",
+          "informant": "AL377",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2776,7 +2776,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL384",
+          "informant": "AL384",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2790,7 +2790,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL384",
+          "informant": "AL384",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2804,7 +2804,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL386",
+          "informant": "AL386",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2818,7 +2818,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL386",
+          "informant": "AL386",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2832,7 +2832,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL235",
+          "informant": "FL235",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2846,7 +2846,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL235",
+          "informant": "FL235",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2860,7 +2860,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL396",
+          "informant": "AL396",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2874,7 +2874,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL400",
+          "informant": "AL400",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2888,7 +2888,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL400",
+          "informant": "AL400",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2902,7 +2902,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL236",
+          "informant": "FL236",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2916,7 +2916,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL236",
+          "informant": "FL236",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2930,7 +2930,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL236",
+          "informant": "FL236",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2944,7 +2944,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL238",
+          "informant": "FL238",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2958,7 +2958,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL418",
+          "informant": "AL418",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2972,7 +2972,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL239",
+          "informant": "FL239",
           "faucet": "spicket "
         },
         "geometry": {
@@ -2986,7 +2986,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL427",
+          "informant": "AL427",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3000,7 +3000,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL434",
+          "informant": "AL434",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3014,7 +3014,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL434",
+          "informant": "AL434",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3028,7 +3028,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL241",
+          "informant": "FL241",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3042,7 +3042,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL241",
+          "informant": "FL241",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3056,7 +3056,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL242",
+          "informant": "FL242",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3070,7 +3070,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL242",
+          "informant": "FL242",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3084,7 +3084,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL242",
+          "informant": "FL242",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3098,7 +3098,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL243",
+          "informant": "FL243",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3112,7 +3112,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL243",
+          "informant": "FL243",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3126,7 +3126,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL246",
+          "informant": "FL246",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3140,7 +3140,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL246",
+          "informant": "FL246",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3154,7 +3154,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL247",
+          "informant": "FL247",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3168,7 +3168,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL248",
+          "informant": "FL248",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3182,7 +3182,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL248",
+          "informant": "FL248",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3196,7 +3196,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL249",
+          "informant": "FL249",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3210,7 +3210,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL249",
+          "informant": "FL249",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3224,7 +3224,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL251",
+          "informant": "FL251",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3238,7 +3238,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL251",
+          "informant": "FL251",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3252,7 +3252,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL250",
+          "informant": "FL250",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3266,7 +3266,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL250",
+          "informant": "FL250",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3280,7 +3280,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL271",
+          "informant": "FL271",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3294,7 +3294,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL252",
+          "informant": "FL252",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3308,7 +3308,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL252",
+          "informant": "FL252",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3322,7 +3322,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL281",
+          "informant": "FL281",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3336,7 +3336,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL253",
+          "informant": "FL253",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3350,7 +3350,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL253",
+          "informant": "FL253",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3364,7 +3364,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL253",
+          "informant": "FL253",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3378,7 +3378,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL457",
+          "informant": "FL457",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3392,7 +3392,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL457",
+          "informant": "FL457",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3406,7 +3406,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL255",
+          "informant": "FL255",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3420,7 +3420,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL256",
+          "informant": "FL256",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3434,7 +3434,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL257",
+          "informant": "FL257",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3448,7 +3448,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL258",
+          "informant": "FL258",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3462,7 +3462,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL258",
+          "informant": "FL258",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3476,7 +3476,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL260",
+          "informant": "FL260",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3490,7 +3490,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL261",
+          "informant": "FL261",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3504,7 +3504,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL262",
+          "informant": "FL262",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3518,7 +3518,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL262",
+          "informant": "FL262",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3532,7 +3532,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL262",
+          "informant": "FL262",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3546,7 +3546,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL263",
+          "informant": "FL263",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3560,7 +3560,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL266",
+          "informant": "FL266",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3574,7 +3574,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL266",
+          "informant": "FL266",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3588,7 +3588,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL269",
+          "informant": "FL269",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3602,7 +3602,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL269",
+          "informant": "FL269",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3616,7 +3616,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL273",
+          "informant": "FL273",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3630,7 +3630,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL273",
+          "informant": "FL273",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3644,7 +3644,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL275",
+          "informant": "FL275",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3658,7 +3658,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL275",
+          "informant": "FL275",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3672,7 +3672,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL276",
+          "informant": "FL276",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3686,7 +3686,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL276",
+          "informant": "FL276",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3700,7 +3700,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL276",
+          "informant": "FL276",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3714,7 +3714,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL278",
+          "informant": "FL278",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3728,7 +3728,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "LA641",
+          "informant": "LA641",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3742,7 +3742,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL284",
+          "informant": "FL284",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3756,7 +3756,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL286",
+          "informant": "FL286",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3770,7 +3770,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL289",
+          "informant": "FL289",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3784,7 +3784,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MS552",
+          "informant": "MS552",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3798,7 +3798,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MS552",
+          "informant": "MS552",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3812,7 +3812,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN300",
+          "informant": "TN300",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3826,7 +3826,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN300",
+          "informant": "TN300",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3840,7 +3840,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN305",
+          "informant": "TN305",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3854,7 +3854,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN305",
+          "informant": "TN305",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3868,7 +3868,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MS620",
+          "informant": "MS620",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3882,7 +3882,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MS620",
+          "informant": "MS620",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3896,7 +3896,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN336",
+          "informant": "TN336",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3910,7 +3910,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL338",
+          "informant": "AL338",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3924,7 +3924,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL359",
+          "informant": "AL359",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3938,7 +3938,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL359",
+          "informant": "AL359",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3952,7 +3952,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL370",
+          "informant": "AL370",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3966,7 +3966,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL375",
+          "informant": "AL375",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3980,7 +3980,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL376",
+          "informant": "AL376",
           "faucet": "spicket "
         },
         "geometry": {
@@ -3994,7 +3994,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL376",
+          "informant": "AL376",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4008,7 +4008,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL378",
+          "informant": "AL378",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4022,7 +4022,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL378",
+          "informant": "AL378",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4036,7 +4036,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL379",
+          "informant": "AL379",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4050,7 +4050,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL380",
+          "informant": "AL380",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4064,7 +4064,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL381",
+          "informant": "AL381",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4078,7 +4078,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL382",
+          "informant": "AL382",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4092,7 +4092,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL387",
+          "informant": "AL387",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4106,7 +4106,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL389",
+          "informant": "AL389",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4120,7 +4120,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL390",
+          "informant": "AL390",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4134,7 +4134,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL390",
+          "informant": "AL390",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4148,7 +4148,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL390",
+          "informant": "AL390",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4162,7 +4162,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL391",
+          "informant": "AL391",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4176,7 +4176,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL391",
+          "informant": "AL391",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4190,7 +4190,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL392",
+          "informant": "AL392",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4204,7 +4204,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL397",
+          "informant": "AL397",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4218,7 +4218,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL402",
+          "informant": "AL402",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4232,7 +4232,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL402",
+          "informant": "AL402",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4246,7 +4246,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL402",
+          "informant": "AL402",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4260,7 +4260,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL405",
+          "informant": "AL405",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4274,7 +4274,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL407",
+          "informant": "AL407",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4288,7 +4288,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL411",
+          "informant": "AL411",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4302,7 +4302,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL411",
+          "informant": "AL411",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4316,7 +4316,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL413",
+          "informant": "AL413",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4330,7 +4330,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL413",
+          "informant": "AL413",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4344,7 +4344,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL415",
+          "informant": "AL415",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4358,7 +4358,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL419",
+          "informant": "AL419",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4372,7 +4372,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL419",
+          "informant": "AL419",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4386,7 +4386,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL419",
+          "informant": "AL419",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4400,7 +4400,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL420",
+          "informant": "AL420",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4414,7 +4414,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL420",
+          "informant": "AL420",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4428,7 +4428,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL423",
+          "informant": "AL423",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4442,7 +4442,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL423",
+          "informant": "AL423",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4456,7 +4456,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL428",
+          "informant": "AL428",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4470,7 +4470,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL428",
+          "informant": "AL428",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4484,7 +4484,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL428",
+          "informant": "AL428",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4498,7 +4498,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL429",
+          "informant": "AL429",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4512,7 +4512,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL431",
+          "informant": "AL431",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4526,7 +4526,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL432",
+          "informant": "AL432",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4540,7 +4540,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL435",
+          "informant": "AL435",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4554,7 +4554,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL440",
+          "informant": "AL440",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4568,7 +4568,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL444",
+          "informant": "AL444",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4582,7 +4582,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL444",
+          "informant": "AL444",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4596,7 +4596,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL444",
+          "informant": "AL444",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4610,7 +4610,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL474",
+          "informant": "AL474",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4624,7 +4624,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL475",
+          "informant": "AL475",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4638,7 +4638,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL476",
+          "informant": "AL476",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4652,7 +4652,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL476",
+          "informant": "AL476",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4666,7 +4666,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL476",
+          "informant": "AL476",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4680,7 +4680,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL452",
+          "informant": "FL452",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4694,7 +4694,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL454",
+          "informant": "FL454",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4708,7 +4708,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL455",
+          "informant": "FL455",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4722,7 +4722,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL455",
+          "informant": "FL455",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4736,7 +4736,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL456",
+          "informant": "FL456",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4750,7 +4750,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL456",
+          "informant": "FL456",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4764,7 +4764,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL458",
+          "informant": "FL458",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4778,7 +4778,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL460",
+          "informant": "FL460",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4792,7 +4792,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL461",
+          "informant": "FL461",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4806,7 +4806,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL461",
+          "informant": "FL461",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4820,7 +4820,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL461",
+          "informant": "FL461",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4834,7 +4834,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL462",
+          "informant": "FL462",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4848,7 +4848,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL462",
+          "informant": "FL462",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4862,7 +4862,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL465",
+          "informant": "FL465",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4876,7 +4876,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL465",
+          "informant": "FL465",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4890,7 +4890,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL466",
+          "informant": "FL466",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4904,7 +4904,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL466",
+          "informant": "FL466",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4918,7 +4918,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL466",
+          "informant": "FL466",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4932,7 +4932,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL470",
+          "informant": "FL470",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4946,7 +4946,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL470",
+          "informant": "FL470",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4960,7 +4960,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL471",
+          "informant": "FL471",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4974,7 +4974,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN487",
+          "informant": "TN487",
           "faucet": "spicket "
         },
         "geometry": {
@@ -4988,7 +4988,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN489",
+          "informant": "TN489",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5002,7 +5002,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN494",
+          "informant": "TN494",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5016,7 +5016,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN494",
+          "informant": "TN494",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5030,7 +5030,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN501",
+          "informant": "TN501",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5044,7 +5044,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN511",
+          "informant": "TN511",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5058,7 +5058,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN511",
+          "informant": "TN511",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5072,7 +5072,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN511",
+          "informant": "TN511",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5086,7 +5086,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MS521",
+          "informant": "MS521",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5100,7 +5100,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MS526",
+          "informant": "MS526",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5114,7 +5114,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "LA635",
+          "informant": "LA635",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5128,7 +5128,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "LA644",
+          "informant": "LA644",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5142,7 +5142,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MS533",
+          "informant": "MS533",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5156,7 +5156,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MS539",
+          "informant": "MS539",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5170,7 +5170,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MS556",
+          "informant": "MS556",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5184,7 +5184,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MS576",
+          "informant": "MS576",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5198,7 +5198,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MS579",
+          "informant": "MS579",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5212,7 +5212,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MS582",
+          "informant": "MS582",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5226,7 +5226,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MS591",
+          "informant": "MS591",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5240,7 +5240,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MS592",
+          "informant": "MS592",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5254,7 +5254,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MS616",
+          "informant": "MS616",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5268,7 +5268,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MS621",
+          "informant": "MS621",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5282,7 +5282,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MS621",
+          "informant": "MS621",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5296,7 +5296,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AR677",
+          "informant": "AR677",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5310,7 +5310,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AR687",
+          "informant": "AR687",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5324,7 +5324,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AR730",
+          "informant": "AR730",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5338,7 +5338,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AR732",
+          "informant": "AR732",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5352,7 +5352,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AR732",
+          "informant": "AR732",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5366,7 +5366,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AR735",
+          "informant": "AR735",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5380,7 +5380,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AR737",
+          "informant": "AR737",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5394,7 +5394,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AR739",
+          "informant": "AR739",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5408,7 +5408,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AR743",
+          "informant": "AR743",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5422,7 +5422,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AR747",
+          "informant": "AR747",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5436,7 +5436,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "LA769",
+          "informant": "LA769",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5450,7 +5450,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "LA777",
+          "informant": "LA777",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5464,7 +5464,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "LA787",
+          "informant": "LA787",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5478,7 +5478,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "LA791",
+          "informant": "LA791",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5492,7 +5492,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "LA791",
+          "informant": "LA791",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5506,7 +5506,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "LA817",
+          "informant": "LA817",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5520,7 +5520,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TX833",
+          "informant": "TX833",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5534,7 +5534,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TX833",
+          "informant": "TX833",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5548,7 +5548,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TX833",
+          "informant": "TX833",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5562,7 +5562,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TX834",
+          "informant": "TX834",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5576,7 +5576,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TX834",
+          "informant": "TX834",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5590,7 +5590,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TX834",
+          "informant": "TX834",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5604,7 +5604,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TX861",
+          "informant": "TX861",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5618,7 +5618,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TX863",
+          "informant": "TX863",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5632,7 +5632,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TX871",
+          "informant": "TX871",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5646,7 +5646,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TX871",
+          "informant": "TX871",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5660,7 +5660,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TX882",
+          "informant": "TX882",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5674,7 +5674,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TX885",
+          "informant": "TX885",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5688,7 +5688,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TX887",
+          "informant": "TX887",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5702,7 +5702,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TX890",
+          "informant": "TX890",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5716,7 +5716,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TX891",
+          "informant": "TX891",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5730,7 +5730,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TX894",
+          "informant": "TX894",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5744,7 +5744,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TX902",
+          "informant": "TX902",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5758,7 +5758,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TX906",
+          "informant": "TX906",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5772,7 +5772,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TX907",
+          "informant": "TX907",
           "faucet": "spicket "
         },
         "geometry": {
@@ -5786,7 +5786,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "IN13A",
+          "informant": "IN13A",
           "faucet": "spicket"
         },
         "geometry": {
@@ -5800,7 +5800,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "IN25C",
+          "informant": "IN25C",
           "faucet": "spicket"
         },
         "geometry": {
@@ -5814,7 +5814,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MI8A",
+          "informant": "MI8A",
           "faucet": "spicket"
         },
         "geometry": {
@@ -5828,7 +5828,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MI25B",
+          "informant": "MI25B",
           "faucet": "spicket"
         },
         "geometry": {
@@ -5842,7 +5842,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "OH30A",
+          "informant": "OH30A",
           "faucet": "spicket"
         },
         "geometry": {
@@ -5856,7 +5856,7 @@ var spicket = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "OH36B",
+          "informant": "OH36B",
           "faucet": "spicket"
         },
         "geometry": {
