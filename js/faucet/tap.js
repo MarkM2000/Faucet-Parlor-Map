@@ -4,7 +4,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MA120",
+          "informant": "MA120",
           "faucet": "tap, water cock"
         },
         "geometry": {
@@ -18,7 +18,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MI26B",
+          "informant": "MI26B",
           "faucet": "tap, sillcocks, faucet, spicket"
         },
         "geometry": {
@@ -32,7 +32,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "IL12C",
+          "informant": "IL12C",
           "faucet": "tap, forcep, faucet, spicket"
         },
         "geometry": {
@@ -46,7 +46,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MI29A",
+          "informant": "MI29A",
           "faucet": "tap, faucets, spicket"
         },
         "geometry": {
@@ -60,7 +60,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MI3B",
+          "informant": "MI3B",
           "faucet": "tap, faucets"
         },
         "geometry": {
@@ -74,7 +74,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MI5B",
+          "informant": "MI5B",
           "faucet": "tap, faucet, spout, a faucet"
         },
         "geometry": {
@@ -88,7 +88,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "RI19",
+          "informant": "RI19",
           "faucet": "tap, faucet, spigot, pump"
         },
         "geometry": {
@@ -102,7 +102,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "IL12I",
+          "informant": "IL12I",
           "faucet": "tap, faucet, spigot, bunghole"
         },
         "geometry": {
@@ -116,7 +116,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "IL12P",
+          "informant": "IL12P",
           "faucet": "tap, faucet, spigot"
         },
         "geometry": {
@@ -130,7 +130,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MI8B",
+          "informant": "MI8B",
           "faucet": "tap, faucet"
         },
         "geometry": {
@@ -144,7 +144,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "WI14B",
+          "informant": "WI14B",
           "faucet": "tap, faucet"
         },
         "geometry": {
@@ -158,7 +158,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "WI18B",
+          "informant": "WI18B",
           "faucet": "tap, faucet"
         },
         "geometry": {
@@ -172,7 +172,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "NJ20A",
+          "informant": "NJ20A",
           "faucet": "tap cock"
         },
         "geometry": {
@@ -186,7 +186,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN008",
+          "informant": "TN008",
           "faucet": "tap "
         },
         "geometry": {
@@ -200,7 +200,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN016",
+          "informant": "TN016",
           "faucet": "tap "
         },
         "geometry": {
@@ -214,7 +214,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN020",
+          "informant": "TN020",
           "faucet": "tap "
         },
         "geometry": {
@@ -228,7 +228,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN020",
+          "informant": "TN020",
           "faucet": "tap "
         },
         "geometry": {
@@ -242,7 +242,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN022",
+          "informant": "TN022",
           "faucet": "tap "
         },
         "geometry": {
@@ -256,7 +256,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN027",
+          "informant": "TN027",
           "faucet": "tap "
         },
         "geometry": {
@@ -270,7 +270,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN049",
+          "informant": "TN049",
           "faucet": "tap "
         },
         "geometry": {
@@ -284,7 +284,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN051",
+          "informant": "TN051",
           "faucet": "tap "
         },
         "geometry": {
@@ -298,7 +298,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN051",
+          "informant": "TN051",
           "faucet": "tap "
         },
         "geometry": {
@@ -312,7 +312,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA171",
+          "informant": "GA171",
           "faucet": "tap "
         },
         "geometry": {
@@ -326,7 +326,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA177",
+          "informant": "GA177",
           "faucet": "tap "
         },
         "geometry": {
@@ -340,7 +340,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA182",
+          "informant": "GA182",
           "faucet": "tap "
         },
         "geometry": {
@@ -354,7 +354,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA202",
+          "informant": "GA202",
           "faucet": "tap "
         },
         "geometry": {
@@ -368,7 +368,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL243",
+          "informant": "FL243",
           "faucet": "tap "
         },
         "geometry": {
@@ -382,7 +382,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL266",
+          "informant": "FL266",
           "faucet": "tap "
         },
         "geometry": {
@@ -396,7 +396,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL273",
+          "informant": "FL273",
           "faucet": "tap "
         },
         "geometry": {
@@ -410,7 +410,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN293",
+          "informant": "TN293",
           "faucet": "tap "
         },
         "geometry": {
@@ -424,7 +424,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MS564",
+          "informant": "MS564",
           "faucet": "tap "
         },
         "geometry": {
@@ -438,7 +438,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN328",
+          "informant": "TN328",
           "faucet": "tap "
         },
         "geometry": {
@@ -452,7 +452,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN332",
+          "informant": "TN332",
           "faucet": "tap "
         },
         "geometry": {
@@ -466,7 +466,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL343",
+          "informant": "AL343",
           "faucet": "tap "
         },
         "geometry": {
@@ -480,7 +480,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL343",
+          "informant": "AL343",
           "faucet": "tap "
         },
         "geometry": {
@@ -494,7 +494,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL359",
+          "informant": "AL359",
           "faucet": "tap "
         },
         "geometry": {
@@ -508,7 +508,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL359",
+          "informant": "AL359",
           "faucet": "tap "
         },
         "geometry": {
@@ -522,7 +522,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL367",
+          "informant": "AL367",
           "faucet": "tap "
         },
         "geometry": {
@@ -536,7 +536,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL367",
+          "informant": "AL367",
           "faucet": "tap "
         },
         "geometry": {
@@ -550,7 +550,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL390",
+          "informant": "AL390",
           "faucet": "tap "
         },
         "geometry": {
@@ -564,7 +564,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL393",
+          "informant": "AL393",
           "faucet": "tap "
         },
         "geometry": {
@@ -578,7 +578,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL394",
+          "informant": "AL394",
           "faucet": "tap "
         },
         "geometry": {
@@ -592,7 +592,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL408",
+          "informant": "AL408",
           "faucet": "tap "
         },
         "geometry": {
@@ -606,7 +606,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL416",
+          "informant": "AL416",
           "faucet": "tap "
         },
         "geometry": {
@@ -620,7 +620,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL445",
+          "informant": "AL445",
           "faucet": "tap "
         },
         "geometry": {
@@ -634,7 +634,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL445",
+          "informant": "AL445",
           "faucet": "tap "
         },
         "geometry": {
@@ -648,7 +648,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL448",
+          "informant": "AL448",
           "faucet": "tap "
         },
         "geometry": {
@@ -662,7 +662,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AL475",
+          "informant": "AL475",
           "faucet": "tap "
         },
         "geometry": {
@@ -676,7 +676,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "FL458",
+          "informant": "FL458",
           "faucet": "tap "
         },
         "geometry": {
@@ -690,7 +690,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN487",
+          "informant": "TN487",
           "faucet": "tap "
         },
         "geometry": {
@@ -704,7 +704,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TN487",
+          "informant": "TN487",
           "faucet": "tap "
         },
         "geometry": {
@@ -718,7 +718,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "LA657X",
+          "informant": "LA657X",
           "faucet": "tap "
         },
         "geometry": {
@@ -732,7 +732,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "LA657Y",
+          "informant": "LA657Y",
           "faucet": "tap "
         },
         "geometry": {
@@ -746,7 +746,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "LA657Z",
+          "informant": "LA657Z",
           "faucet": "tap "
         },
         "geometry": {
@@ -760,7 +760,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MS575",
+          "informant": "MS575",
           "faucet": "tap "
         },
         "geometry": {
@@ -774,7 +774,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MS595",
+          "informant": "MS595",
           "faucet": "tap "
         },
         "geometry": {
@@ -788,7 +788,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "MS617",
+          "informant": "MS617",
           "faucet": "tap "
         },
         "geometry": {
@@ -802,7 +802,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AR680",
+          "informant": "AR680",
           "faucet": "tap "
         },
         "geometry": {
@@ -816,7 +816,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AR711",
+          "informant": "AR711",
           "faucet": "tap "
         },
         "geometry": {
@@ -830,7 +830,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AR739",
+          "informant": "AR739",
           "faucet": "tap "
         },
         "geometry": {
@@ -844,7 +844,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AR749",
+          "informant": "AR749",
           "faucet": "tap "
         },
         "geometry": {
@@ -858,7 +858,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AR752",
+          "informant": "AR752",
           "faucet": "tap "
         },
         "geometry": {
@@ -872,7 +872,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "AR752",
+          "informant": "AR752",
           "faucet": "tap "
         },
         "geometry": {
@@ -886,7 +886,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TX818",
+          "informant": "TX818",
           "faucet": "tap "
         },
         "geometry": {
@@ -900,7 +900,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TX819",
+          "informant": "TX819",
           "faucet": "tap "
         },
         "geometry": {
@@ -914,7 +914,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TX824",
+          "informant": "TX824",
           "faucet": "tap "
         },
         "geometry": {
@@ -928,7 +928,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "TX893",
+          "informant": "TX893",
           "faucet": "tap "
         },
         "geometry": {
@@ -942,7 +942,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "NY5F",
+          "informant": "NY5F",
           "faucet": "tap"
         },
         "geometry": {
@@ -956,7 +956,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "NY8",
+          "informant": "NY8",
           "faucet": "tap"
         },
         "geometry": {
@@ -970,7 +970,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "NY29C",
+          "informant": "NY29C",
           "faucet": "tap"
         },
         "geometry": {
@@ -984,7 +984,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "NY34C",
+          "informant": "NY34C",
           "faucet": "tap"
         },
         "geometry": {
@@ -998,7 +998,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "NY49D",
+          "informant": "NY49D",
           "faucet": "tap"
         },
         "geometry": {
@@ -1012,7 +1012,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "NY57C!",
+          "informant": "NY57C!",
           "faucet": "tap"
         },
         "geometry": {
@@ -1026,7 +1026,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "NY58E!",
+          "informant": "NY58E!",
           "faucet": "tap"
         },
         "geometry": {
@@ -1040,7 +1040,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "NY60B!",
+          "informant": "NY60B!",
           "faucet": "tap"
         },
         "geometry": {
@@ -1054,7 +1054,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "NY61A",
+          "informant": "NY61A",
           "faucet": "tap"
         },
         "geometry": {
@@ -1068,7 +1068,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "NY64B",
+          "informant": "NY64B",
           "faucet": "tap"
         },
         "geometry": {
@@ -1082,7 +1082,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "NJ13B",
+          "informant": "NJ13B",
           "faucet": "tap"
         },
         "geometry": {
@@ -1096,7 +1096,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "NJ21B",
+          "informant": "NJ21B",
           "faucet": "tap"
         },
         "geometry": {
@@ -1110,7 +1110,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "PA1D",
+          "informant": "PA1D",
           "faucet": "tap"
         },
         "geometry": {
@@ -1124,7 +1124,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "PA1E!",
+          "informant": "PA1E!",
           "faucet": "tap"
         },
         "geometry": {
@@ -1138,7 +1138,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "PA1G!",
+          "informant": "PA1G!",
           "faucet": "tap"
         },
         "geometry": {
@@ -1152,7 +1152,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "WV1!",
+          "informant": "WV1!",
           "faucet": "tap"
         },
         "geometry": {
@@ -1166,7 +1166,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "WV39C!",
+          "informant": "WV39C!",
           "faucet": "tap"
         },
         "geometry": {
@@ -1180,7 +1180,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "NC28B",
+          "informant": "NC28B",
           "faucet": "tap"
         },
         "geometry": {
@@ -1194,7 +1194,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "SC11G!",
+          "informant": "SC11G!",
           "faucet": "tap"
         },
         "geometry": {
@@ -1208,7 +1208,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "SC11H!",
+          "informant": "SC11H!",
           "faucet": "tap"
         },
         "geometry": {
@@ -1222,7 +1222,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "SC16",
+          "informant": "SC16",
           "faucet": "tap"
         },
         "geometry": {
@@ -1236,7 +1236,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "SC17D",
+          "informant": "SC17D",
           "faucet": "tap"
         },
         "geometry": {
@@ -1250,7 +1250,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "SC18B",
+          "informant": "SC18B",
           "faucet": "tap"
         },
         "geometry": {
@@ -1264,7 +1264,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "SC20D!",
+          "informant": "SC20D!",
           "faucet": "tap"
         },
         "geometry": {
@@ -1278,7 +1278,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "SC25C!",
+          "informant": "SC25C!",
           "faucet": "tap"
         },
         "geometry": {
@@ -1292,7 +1292,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "SC26B!",
+          "informant": "SC26B!",
           "faucet": "tap"
         },
         "geometry": {
@@ -1306,7 +1306,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA1H!",
+          "informant": "GA1H!",
           "faucet": "tap"
         },
         "geometry": {
@@ -1320,7 +1320,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA14C",
+          "informant": "GA14C",
           "faucet": "tap"
         },
         "geometry": {
@@ -1334,7 +1334,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "GA27!",
+          "informant": "GA27!",
           "faucet": "tap"
         },
         "geometry": {
@@ -1348,7 +1348,7 @@ var tap = {
       {
         "type": "Feature",
         "properties": {
-          "informant ": "WI18A",
+          "informant": "WI18A",
           "faucet": "tap"
         },
         "geometry": {
