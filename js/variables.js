@@ -153,7 +153,7 @@ var living_room = L.geoJson(living_room, {
     onEachFeature: function (feature, layer) {
         const props = feature.properties
         const popup = `
-					<b>${props.informant}</b>
+					<b>${props.Informant}</b>
                     <br>Project: ${props.project}</b>
 					<br>Attic type: ${props.living_room}<br>
 				`
