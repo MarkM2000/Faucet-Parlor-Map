@@ -656,8 +656,8 @@ var living_room = {
         "geometry": {
           "type": "Point",
           "coordinates": [
-            39.1248,
-            39.1248
+            39.2067,
+            -84.3797
           ]
         }
       },
@@ -8496,8 +8496,8 @@ var living_room = {
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -89.644,
-            56.5442
+            46.5924472,
+            -89.5732009
           ]
         }
       },
