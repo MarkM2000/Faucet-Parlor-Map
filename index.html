@@ -19,53 +19,56 @@
 <body>
     <div class="container-fluid">
         <header class="row bg-dark text-white p-2">
+
             <div class="col-8">
                 <h1>Faucet-Parlor Map</h1>
             </div>
             <div class="col-4 align-self-center">
                 <p class="d-flex justify-content-end my-auto">
                     <a class="btn btn-primary" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button"
-                        aria-controls="offcanvasExample">Information</a>
+                        aria-controls="offcanvasExample">
+                        Information
+                    </a>
                 </p>
             </div>
         </header>
-    </div>
-    <section class="row">
-        <div class="p-0">
-            <div id="map"></div>
-        </div>
-    </section>
 
-    <footer class="row bg-dark text-white p-2">
-        <p class="text-center"></p>
-    </footer>
+        <section class="row">
+            <div class="p-0">
+                <div id="map"></div>
+            </div>
+        </section>
+
+        <footer class="row bg-dark text-white p-2">
+            <p class="text-center"></p>
+        </footer>
+    </div>
 
     <div class="offcanvas offcanvas-start bg-dark text-white" tabindex="-1" id="offcanvasExample"
         aria-labelledby="offcanvasExampleLabel">
         <div class="offcanvas-header">
-            <div class="offcanvas-header">
-                <h5 class="offcanvas-title" id="offcanvasExampleLabel">Map Info</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-            </div>
-            <div class="offcanvas-body">
-                <h3 class="py-2">Information</h3>
-                <h2>How faucets impact the environment</h2>
-                <p>Water waste from faucets can have a major negative impact on the environment, especially if they leak. This can result in large amounts of unnecessary water use, strain water supplies, increase the energy required for water treatment, and possibly disrupt ecosystems due to changes in water flow and quality.</p>
-                <h2>How living rooms and parlors impact the environment</h2>
-                <p>The materials used for furnishings and décor, the energy consumed for heating and lighting, and the garbage produced when furniture is thrown away are all ways that living rooms can affect the environment.</p>
-                <ul class="list-unstyled">
-                    <li><a href="https://github.com/Linguistic-Atlas-Project">Data link</a></li>
-                    <li><a href="https://calsplumbing.com/the-environmental-impact-of-leaky-faucets/">The Environmental Impact of Leaky Faucets</a></li>
-                    <li><a href="https://theinterioreditor.com/sustainable-living/the-eco-friendly-living-room-guide/">The Eco-Friendly Living Room & Guide</a></li>                    
-                </ul>
-                <ul class="list-unstyled">
-                    <li>Authored by Mark Marji</a></li>
-                    <li>Date of authored map: February 2, 2025</li>
-                </ul>
-            </div>
+            <h5 class="offcanvas-title" id="offcanvasExampleLabel">Map Info</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+            <h3 class="py-2">Information</h3>
+            <p>This map consists of.</p>
+            <h2>How faucets impact the environment</h2>
+            <p>Water waste from faucets can have a major negative impact on the environment, especially if they leak. This can result in large amounts of unnecessary water use, strain water supplies, increase the energy required for water treatment, and possibly disrupt ecosystems due to changes in water flow and quality.</p>
+            <h2>How living rooms and parlors impact the environment</h2>
+            <p>The materials used for furnishings and décor, the energy consumed for heating and lighting, and the garbage produced when furniture is thrown away are all ways that living rooms can affect the environment.</p>    
+            <h3>Sources</h3>
+            <ul class="list-unstyled">
+                <li><a href="https://github.com/Linguistic-Atlas-Project">Data link</a></li>
+                <li><a href="https://calsplumbing.com/the-environmental-impact-of-leaky-faucets/">The Environmental Impact of Leaky Faucets</a></li>
+                <li><a href="https://theinterioreditor.com/sustainable-living/the-eco-friendly-living-room-guide/">The Eco-Friendly Living Room & Guide</a></li>
+            </ul>
+            <ul class="list-unstyled">
+                <li>Authored by Mark Marji</li>
+                <li>February 2, 2025</li>
+            </ul>
         </div>
     </div>
-</body>
 <!-- Add Leaflet JS -->
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
