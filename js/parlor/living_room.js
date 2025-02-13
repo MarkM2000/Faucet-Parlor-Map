@@ -1,4 +1,4 @@
-var livng_room = {
+var living_room = {
   "type": "FeatureCollection",
   "features": [
     {
