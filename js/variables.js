@@ -1,4 +1,4 @@
-
+// Faucet variables
 var faucet = L.geoJson(faucet, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, {
