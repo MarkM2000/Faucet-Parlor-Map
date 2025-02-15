@@ -1,5 +1,5 @@
 @font-face {
-    font-family: Space Grotesk;
+    font-family: Times New Roman;
 }
 
 .ac-container{
@@ -11,7 +11,7 @@
 }
 
 div[id^="leaflet-control-accordion-layers"] > label {
-	font-family: 'Space Grotesk';
+	font-family: 'Times New Roman';
 	padding: 5px 20px;
 	position: relative;
 	z-index: 20;
@@ -115,13 +115,13 @@ div[id^="leaflet-control-accordion-layers"] > label {
 }
 
 .menu-item-radio{
-	font-family: 'Space Grotesk';
+	font-family: 'Times New Roman';
 	font-size: 13px;
 
 }
 
 .menu-item-checkbox{
-	font-family: 'Space Grotesk';
+	font-family: 'Times New Roman';
 	font-size: 13px;
 
 }
