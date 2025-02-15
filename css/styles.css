@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #dde5e7;
-    font-family: 'Space Grotesk';
+    font-family: 'Times New Roman';
     /* change made here */
     font-weight: 700;
     /* addition here */
@@ -13,26 +13,26 @@ body {
 header,
 section,
 footer {
-    font-family: 'Space Grotesk';
+    font-family: 'Times New Roman';
     width: 80%;
     margin: 10px auto;
 }
 
 h1 {
-    font-family: 'Space Grotesk';
+    font-family: 'Times New Roman';
     font-size: 2.5em;
     letter-spacing: .04em;
 }
 
 h2 {
-    font-family: 'Space Grotesk';
+    font-family: 'Times New Roman';
     font-style: normal;
     font-size: 2em;
     letter-spacing: .04em;
 }
 
 #map {
-    font-family: 'Space Grotesk';
+    font-family: 'Times New Roman';
     width: 800px;
     height: 500px;
     margin: 10px auto;
@@ -49,7 +49,7 @@ h2 {
 
 .info {
     padding: 6px 8px;
-    font-family: 'Space Grotesk';
+    font-family: 'Times New Roman';
     background: white;
     background: rgba(255, 255, 255, 0.8);
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
@@ -57,20 +57,20 @@ h2 {
 }
 
 .info h4 {
-    font-family: 'Space Grotesk';
+    font-family: 'Times New Roman';
     margin: 0 0 5px;
     color: #777;
 }
 
 .legend {
-    font-family: 'Space Grotesk';
+    font-family: 'Times New Roman';
     text-align: left;
     line-height: 18px;
     color: #555;
 }
 
 .legend i {
-    font-family: 'Space Grotesk';
+    font-family: 'Times New Roman';
     width: 18px;
     height: 18px;
     float: left;
@@ -79,12 +79,12 @@ h2 {
 }
 
 #tooltip {
-    font-family: 'Space Grotesk';
+    font-family: 'Times New Roman';
     color: #454545;
 }
 
 h3,
 h5 {
-    font-family: 'Space Grotesk';
+    font-family: 'Times New Roman';
     margin: 0;
 }
