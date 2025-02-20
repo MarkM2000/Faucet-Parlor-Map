@@ -354,3 +354,40 @@ var front_room = L.geoJson(front_room, {
         });
     }
 })
+
+// Cornbread variables
+var cornbread = L.geoJson(cornbread, {
+    pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, {
+            color: '#FFFFFF',
+            weight: 1,
+            fillColor: '#F1C482',
+            fillOpacity: .8,
+            radius: 5
+        });
+    },
+    onEachFeature: function (feature, layer) {
+        const props = feature.properties
+        const popup = `
+					<b>${props.Informant}</b>
+                    <br>Project: ${props.Project}</b>
+					<br>Attic type: ${props.cornbread}<br>
+				`
+        layer.bindTooltip(popup, {
+            className: 'tool-informant'
+        });
+
+        layer.on('mouseover', function () {
+            // code goes in here
+            layer.setStyle({
+                fillColor: '#F1C482'
+            });
+        });
+        layer.on('mouseout', function () {
+            // code goes in here
+            layer.setStyle({
+                fillColor: '#F1C482'
+            });
+        });
+    }
+})
