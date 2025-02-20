@@ -2726,8 +2726,8 @@ var cornbread = {
         "geometry": {
           "type": "Point",
           "coordinates": [
-            39.1248,
-            39.1248
+            -84.3797,
+            39.2067
           ]
         }
       },
@@ -44898,7 +44898,7 @@ var cornbread = {
         "geometry": {
           "type": "Point",
           "coordinates": [
-            73.2202,
+            -73.2202,
             43.9655
           ]
         }
@@ -47784,7 +47784,7 @@ var cornbread = {
         "geometry": {
           "type": "Point",
           "coordinates": [
-            68.36722,
+            -68.36722,
             44.25222
           ]
         }
@@ -47914,7 +47914,7 @@ var cornbread = {
         "geometry": {
           "type": "Point",
           "coordinates": [
-            69.9744,
+            -69.9744,
             41.83
           ]
         }
@@ -48512,7 +48512,7 @@ var cornbread = {
         "geometry": {
           "type": "Point",
           "coordinates": [
-            67.8344,
+            -67.8344,
             46.7722
           ]
         }
@@ -49500,7 +49500,7 @@ var cornbread = {
         "geometry": {
           "type": "Point",
           "coordinates": [
-            71.2602,
+            -71.2602,
             41.643
           ]
         }
@@ -49760,7 +49760,7 @@ var cornbread = {
         "geometry": {
           "type": "Point",
           "coordinates": [
-            71.7177,
+            -71.7177,
             43.3288
           ]
         }
