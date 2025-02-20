@@ -427,3 +427,39 @@ var cornpones = L.geoJson(cornpones, {
         });
     }
 })
+
+var johnnycakes = L.geoJson(johnnycakes, {
+    pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, {
+            color: '#FFFFFF',
+            weight: 1,
+            fillColor: '#F7C796',
+            fillOpacity: .8,
+            radius: 5
+        });
+    },
+    onEachFeature: function (feature, layer) {
+        const props = feature.properties
+        const popup = `
+					<b>${props.Informant}</b>
+                    <br>Project: ${props.Project}</b>
+					<br>Attic type: ${props.cornbread}<br>
+				`
+        layer.bindTooltip(popup, {
+            className: 'tool-informant'
+        });
+
+        layer.on('mouseover', function () {
+            // code goes in here
+            layer.setStyle({
+                fillColor: '#F7C796'
+            });
+        });
+        layer.on('mouseout', function () {
+            // code goes in here
+            layer.setStyle({
+                fillColor: '#F7C796'
+            });
+        });
+    }
+})
