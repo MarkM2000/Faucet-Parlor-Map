@@ -96,6 +96,7 @@
     <script src="/js/cornbread/hoecake.js"></script>
     <script src="/js/cornbread/johnnycakes.js"></script>
     <script src="/js/cornbread/spoonbread.js"></script>
+    <script src="/js/sweetcorn/corn_on_cob.js"></script>
     <!-- Variables JS file -->
     <script src="/js/variables.js"></script>
     <!-- Add L.Control.Layers.Tree JS file -->
@@ -148,6 +149,13 @@
                     "Spoonbreads" : spoonbread,
                 }
             },
+            {
+                groupName: "Sweet corn layers",
+                expanded: true,
+                layers: {
+                    "Corn on the cob" : corn_on_the_cob,
+                }   
+            }
         ]
 
         var control = L.Control.styledLayerControl(baseMaps);
