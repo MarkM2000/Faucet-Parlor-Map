@@ -614,7 +614,7 @@ var corn_on_the_cob = L.geoJson(corn_on_the_cob, {
         return L.circleMarker(latlng, {
             color: '#FFFFFF',
             weight: 1,
-            fillColor: '#fbe0b5',
+            fillColor: '#F5CF95',
             fillOpacity: .8,
             radius: 5
         });
@@ -633,13 +633,13 @@ var corn_on_the_cob = L.geoJson(corn_on_the_cob, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#fbe0b5'
+                fillColor: '#F5CF95'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#fbe0b5'
+                fillColor: '#F5CF95'
             });
         });
     }
