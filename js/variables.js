@@ -623,8 +623,7 @@ var corn_on_the_cob = L.geoJson(corn_on_the_cob, {
         const props = feature.properties
         const popup = `
 					<b>${props.Informant}</b>
-                    <br>Project: ${props.Project}</b>
-					<br>Attic type: ${props.cornbread}<br>
+					<br>Attic type: ${props.Response}<br>
 				`
         layer.bindTooltip(popup, {
             className: 'tool-informant'
@@ -659,8 +658,7 @@ var field_corn = L.geoJson(field_corn, {
         const props = feature.properties
         const popup = `
 					<b>${props.Informant}</b>
-                    <br>Project: ${props.Project}</b>
-					<br>Attic type: ${props.cornbread}<br>
+					<br>Attic type: ${props.Response}<br>
 				`
         layer.bindTooltip(popup, {
             className: 'tool-informant'
