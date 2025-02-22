@@ -679,6 +679,41 @@ var field_corn = L.geoJson(field_corn, {
     }
 })
 
+var green_corn = L.geoJson(green_corn, {
+    pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, {
+            color: '#dfd6b5',
+            weight: 1,
+            fillColor: '#A0D86D',
+            fillOpacity: .8,
+            radius: 5
+        });
+    },
+    onEachFeature: function (feature, layer) {
+        const props = feature.properties
+        const popup = `
+					<b>${props.Informant}</b>
+					<br>Attic type: ${props.Response}<br>
+				`
+        layer.bindTooltip(popup, {
+            className: 'tool-informant'
+        });
+
+        layer.on('mouseover', function () {
+            // code goes in here
+            layer.setStyle({
+                fillColor: '#A0D86D'
+            });
+        });
+        layer.on('mouseout', function () {
+            // code goes in here
+            layer.setStyle({
+                fillColor: '#A0D86D'
+            });
+        });
+    }
+})
+
 var roasting_corn = L.geoJson(roasting_corn, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, {
