@@ -678,3 +678,38 @@ var field_corn = L.geoJson(field_corn, {
         });
     }
 })
+
+var roasting_ears = L.geoJson(roasting_ears, {
+    pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, {
+            color: '#FFFFFF',
+            weight: 1,
+            fillColor: '#F5CF95',
+            fillOpacity: .8,
+            radius: 5
+        });
+    },
+    onEachFeature: function (feature, layer) {
+        const props = feature.properties
+        const popup = `
+					<b>${props.Informant}</b>
+					<br>Attic type: ${props.Response}<br>
+				`
+        layer.bindTooltip(popup, {
+            className: 'tool-informant'
+        });
+
+        layer.on('mouseover', function () {
+            // code goes in here
+            layer.setStyle({
+                fillColor: '#F5CF95'
+            });
+        });
+        layer.on('mouseout', function () {
+            // code goes in here
+            layer.setStyle({
+                fillColor: '#F5CF95'
+            });
+        });
+    }
+})
