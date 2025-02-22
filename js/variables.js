@@ -647,7 +647,7 @@ var corn_on_the_cob = L.geoJson(corn_on_the_cob, {
 var field_corn = L.geoJson(field_corn, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, {
-            color: '#FFFFFF',
+            color: '#dfd6b5',
             weight: 1,
             fillColor: '#F6F9CD',
             fillOpacity: .8,
