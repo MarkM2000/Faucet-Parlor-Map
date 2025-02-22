@@ -644,3 +644,39 @@ var corn_on_the_cob = L.geoJson(corn_on_the_cob, {
         });
     }
 })
+
+var field_corn = L.geoJson(field_corn, {
+    pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, {
+            color: '#FFFFFF',
+            weight: 1,
+            fillColor: '#F6F9CD',
+            fillOpacity: .8,
+            radius: 5
+        });
+    },
+    onEachFeature: function (feature, layer) {
+        const props = feature.properties
+        const popup = `
+					<b>${props.Informant}</b>
+                    <br>Project: ${props.Project}</b>
+					<br>Attic type: ${props.cornbread}<br>
+				`
+        layer.bindTooltip(popup, {
+            className: 'tool-informant'
+        });
+
+        layer.on('mouseover', function () {
+            // code goes in here
+            layer.setStyle({
+                fillColor: '#F6F9CD'
+            });
+        });
+        layer.on('mouseout', function () {
+            // code goes in here
+            layer.setStyle({
+                fillColor: '#F6F9CD'
+            });
+        });
+    }
+})
