@@ -130,6 +130,16 @@
                     { label: 'Tap', layer: tap }
                 ]
             },
+            {
+                label: 'Parlor layers',
+                children: [           
+                    { label: 'Front room', layer: front_room },
+                    { label: 'Living room', layer: living_room },
+                    { label: 'Parlor', layer: parlor },
+                    { label: 'Setting room', layer: setting_room },
+                    { label: 'Sitting room', layer: sitting_room },
+                ]
+            },
         ];
 
         L.control.layers.tree(baseTree).addTo(map);
