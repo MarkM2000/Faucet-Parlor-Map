@@ -16,7 +16,7 @@
     <!-- Styles CSS -->
     <link href="../css/styles.css" rel="stylesheet" />
     <!-- L Control Layers Tree Layer CSS -->
-    <link href="src/styledLayerControl.css" rel="stylesheet" />
+    <link href="src/L.Control.Layers.Tree.css" rel="stylesheet" />
 </head>
 
 <body>
@@ -28,9 +28,7 @@
             <div class="col-4 align-self-center">
                 <p class="d-flex justify-content-end my-auto">
                     <a class="btn btn-primary" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button"
-                        aria-controls="offcanvasExample">
-                        Information
-                    </a>
+                        aria-controls="offcanvasExample">Information</a>
                 </p>
             </div>
         </header>
@@ -105,7 +103,7 @@
     <!-- Variables JS file -->
     <script src="/js/variables.js"></script>
     <!-- Add L.Control.Layers.Tree JS file -->
-    <script src="/src/styledLayerControl.js"></script>
+    <script src="/src/L.Control.Layers.Tree.js"></script>
     <!-- Variables JS file -->
     <script>
         var map = L.map('map', {
@@ -118,56 +116,56 @@
             attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
         }).addTo(map);
 
-        var baseMaps = [
-            {
-                groupName: "Faucet layers",
-                expanded: true,
-                layers: {
-                    "Faucet": faucet,
-                    "Hydrant": hydrant,
-                    "Spicket": spicket,
-                    "Spigot faucet": spigot,
-                    "Tap": tap
-                }
-            },
-            {
-                groupName: "Parlor layers",
-                expanded: true,
-                layers: {
-                    "Front room": front_room,
-                    "Living room": living_room,
-                    "Parlor": parlor,
-                    "Setting room": setting_room,
-                    "Sitting room": sitting_room,
-                }
-            },
-            {
-                groupName: "Cornbread layers",
-                expanded: true,
-                layers: {
-                    "Ashcakes" : ashcake,
-                    "Cornbreads": cornbread,
-                    "Corn dodgers": corndodger,
-                    "Cornpones": cornpones,
-                    "Hoecakes" : hoecake,
-                    "Johnnycakes": johnnycakes,
-                    "Spoonbreads" : spoonbread,
-                }
-            },
-            {
-                groupName: "Sweet corn layers",
-                expanded: true,
-                layers: {
-                    "Corn on the cob" : corn_on_the_cob,
-                    "Field corns" : field_corn,
-                    "Green corns" : green_corn,
-                    "Roasting ears" : roasting_ears,
-                    "Roasting corn" : roasting_corn,
-                    "Sweet corn" : sweet_corn,
-                }   
-            }
-        ]
+        // The tree containing the layers
+        var baseTree = {
+            label: 'Base Layers',
+            children: [
+                {
+                    label: 'Faucet layers',
+                    children: [
+                        { label: 'Faucet', layer: faucet },
+                        { label: 'Hydrant', layer: hydrant },
+                        { label: 'Spicket', layer: spicket },
+                        { label: 'Spigot faucet', layer: spigot },
+                        { label: 'Tap', layer: tap }
+                    ]
+                },
+                {
+                    label: 'Parlor layers',
+                    children: [
+                        { label: 'Front room', layer: front_room },
+                        { label: 'Living room', layer: living_room },
+                        { label: 'Parlor', layer: parlor },
+                        { label: 'Setting room', layer: setting_room },
+                        { label: 'Sitting room', layer: sitting_room },
+                    ]
+                },
+                {
+                    label: 'Sweet corn layers',
+                    children: [
+                        { label: 'Corn on cobs', layer: corn_on_the_cob },
+                        { label: 'Field corn', layer: field_corn },
+                        { label: 'Green corn', layer: green_corn },
+                        { label: 'Roasting corn', layer: roasting_corn },
+                        { label: 'Roasting ears', layer: roasting_ears },
+                        { label: 'Sweet corn', layer: sweet_corn },
+                    ]
+                },
+                {
+                    label: 'Cornbread layers',
+                    children: [
+                        { label: 'Ashcake', layer: ashcake },
+                        { label: 'Cornbread', layer: cornbread },
+                        { label: 'Corndodger', layer: corndodger },
+                        { label: 'Cornpones', layer: cornpones },
+                        { label: 'Hoecakes', layer: hoecake },
+                        { label: 'Johnnycakes', layer: johnnycakes },
+                        { label: 'Spoonbread', layer: spoonbread },
 
-        var control = L.Control.styledLayerControl(baseMaps);
-        map.addControl(control);
+                    ]
+                },
+            ]
+        };
+
+        L.control.layers.tree(baseTree).addTo(map);
     </script>
