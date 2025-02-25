@@ -118,7 +118,7 @@
             attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
         }).addTo(map);
 
-        var baseMaps = [
+        var baseTree = [
             {
                 groupName: "Faucet layers",
                 expanded: true,
@@ -168,6 +168,5 @@
             }
         ]
 
-        var control = L.Control.styledLayerControl(baseMaps);
-        map.addControl(control);
+        var control = L.control.layers.tree(baseTree).addTo(map);
     </script>
