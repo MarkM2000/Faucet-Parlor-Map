@@ -118,55 +118,58 @@
             attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
         }).addTo(map);
 
-        var baseTree = [
-            {
-                groupName: "Faucet layers",
-                expanded: true,
-                layers: {
-                    "Faucet": faucet,
-                    "Hydrant": hydrant,
-                    "Spicket": spicket,
-                    "Spigot faucet": spigot,
-                    "Tap": tap
+        var baseTree = {
+            label: 'Base Layers',
+            children: [
+                {
+                    groupName: "Faucet layers",
+                    expanded: true,
+                    layers: {
+                        "Faucet": faucet,
+                        "Hydrant": hydrant,
+                        "Spicket": spicket,
+                        "Spigot faucet": spigot,
+                        "Tap": tap
+                    }
+                },
+                {
+                    groupName: "Parlor layers",
+                    expanded: true,
+                    layers: {
+                        "Front room": front_room,
+                        "Living room": living_room,
+                        "Parlor": parlor,
+                        "Setting room": setting_room,
+                        "Sitting room": sitting_room,
+                    }
+                },
+                {
+                    groupName: "Cornbread layers",
+                    expanded: true,
+                    layers: {
+                        "Ashcakes": ashcake,
+                        "Cornbreads": cornbread,
+                        "Corn dodgers": corndodger,
+                        "Cornpones": cornpones,
+                        "Hoecakes": hoecake,
+                        "Johnnycakes": johnnycakes,
+                        "Spoonbreads": spoonbread,
+                    }
+                },
+                {
+                    groupName: "Sweet corn layers",
+                    expanded: true,
+                    layers: {
+                        "Corn on the cob": corn_on_the_cob,
+                        "Field corns": field_corn,
+                        "Green corns": green_corn,
+                        "Roasting ears": roasting_ears,
+                        "Roasting corn": roasting_corn,
+                        "Sweet corn": sweet_corn,
+                    }
                 }
-            },
-            {
-                groupName: "Parlor layers",
-                expanded: true,
-                layers: {
-                    "Front room": front_room,
-                    "Living room": living_room,
-                    "Parlor": parlor,
-                    "Setting room": setting_room,
-                    "Sitting room": sitting_room,
-                }
-            },
-            {
-                groupName: "Cornbread layers",
-                expanded: true,
-                layers: {
-                    "Ashcakes" : ashcake,
-                    "Cornbreads": cornbread,
-                    "Corn dodgers": corndodger,
-                    "Cornpones": cornpones,
-                    "Hoecakes" : hoecake,
-                    "Johnnycakes": johnnycakes,
-                    "Spoonbreads" : spoonbread,
-                }
-            },
-            {
-                groupName: "Sweet corn layers",
-                expanded: true,
-                layers: {
-                    "Corn on the cob" : corn_on_the_cob,
-                    "Field corns" : field_corn,
-                    "Green corns" : green_corn,
-                    "Roasting ears" : roasting_ears,
-                    "Roasting corn" : roasting_corn,
-                    "Sweet corn" : sweet_corn,
-                }   
-            }
-        ]
+            ]
+        };
 
         var control = L.control.layers.tree(baseTree).addTo(map);
     </script>
