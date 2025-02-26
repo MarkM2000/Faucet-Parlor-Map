@@ -541,7 +541,7 @@ var johnnycakes = L.geoJson(johnnycakes, {
         return L.circleMarker(latlng, {
             color: '#FFFFFF',
             weight: 1,
-            fillColor: '#F7C796',
+            fillColor: '#3E2B2E',
             fillOpacity: .8,
             radius: 5
         });
@@ -560,13 +560,13 @@ var johnnycakes = L.geoJson(johnnycakes, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#F7C796'
+                fillColor: '#3E2B2E'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#F7C796'
+                fillColor: '#3E2B2E'
             });
         });
     }
