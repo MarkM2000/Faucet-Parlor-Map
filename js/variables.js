@@ -577,7 +577,7 @@ var spoonbread = L.geoJson(spoonbread, {
         return L.circleMarker(latlng, {
             color: '#FFFFFF',
             weight: 1,
-            fillColor: '#fbe0b5',
+            fillColor: '#B5651D',
             fillOpacity: .8,
             radius: 5
         });
@@ -596,13 +596,13 @@ var spoonbread = L.geoJson(spoonbread, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#fbe0b5'
+                fillColor: '#B5651D'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#fbe0b5'
+                fillColor: '#B5651D'
             });
         });
     }
