@@ -719,7 +719,7 @@ var roasting_corn = L.geoJson(roasting_corn, {
         return L.circleMarker(latlng, {
             color: '#FFFFFF',
             weight: 1,
-            fillColor: '#FFE29C',
+            fillColor: '#D69E5B',
             fillOpacity: .8,
             radius: 5
         });
@@ -737,13 +737,13 @@ var roasting_corn = L.geoJson(roasting_corn, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#FFE29C'
+                fillColor: '#D69E5B'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#FFE29C'
+                fillColor: '#D69E5B'
             });
         });
     }
@@ -754,7 +754,7 @@ var roasting_ears = L.geoJson(roasting_ears, {
         return L.circleMarker(latlng, {
             color: '#FFFFFF',
             weight: 1,
-            fillColor: '#F5CF95',
+            fillColor: '#D69E5B',
             fillOpacity: .8,
             radius: 5
         });
@@ -772,13 +772,13 @@ var roasting_ears = L.geoJson(roasting_ears, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#F5CF95'
+                fillColor: '#D69E5B'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#F5CF95'
+                fillColor: '#D69E5B'
             });
         });
     }
