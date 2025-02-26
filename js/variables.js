@@ -361,7 +361,7 @@ var ashcake = L.geoJson(ashcake, {
         return L.circleMarker(latlng, {
             color: '#FFFFFF',
             weight: 1,
-            fillColor: '#dfd6b5',
+            fillColor: '#964B00',
             fillOpacity: .8,
             radius: 5
         });
@@ -380,13 +380,13 @@ var ashcake = L.geoJson(ashcake, {
         layer.on('mouseover', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#dfd6b5'
+                fillColor: '#964B00'
             });
         });
         layer.on('mouseout', function () {
             // code goes in here
             layer.setStyle({
-                fillColor: '#dfd6b5'
+                fillColor: '#964B00'
             });
         });
     }
