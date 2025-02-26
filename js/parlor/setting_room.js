@@ -1657,7 +1657,7 @@ var setting_room = {
         "type": "Point",
         "coordinates": [
           39.1248,
-          39.1248
+          -84.3797
         ]
       }
     },
